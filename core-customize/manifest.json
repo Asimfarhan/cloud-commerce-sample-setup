@@ -8,6 +8,7 @@
     "useConfig": {
         "properties": [
             {
+                "url": "https://launchpad.support.sap.com/#/notes/3164418",
                 "location": "hybris/config/environments/local-dev.properties",
                 "persona": "development"
             },
